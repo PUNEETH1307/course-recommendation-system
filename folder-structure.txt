@@ -1,0 +1,27 @@
+edupath-ai/
+├── backend/
+│   ├── config/
+│   ├── controllers/
+│   ├── middleware/
+│   ├── models/
+│   ├── routes/
+│   ├── utils/
+│   ├── data/
+│   ├── server.js
+│   ├── package.json
+│   └── .env
+│
+└── frontend/
+    ├── public/
+    │   └── index.html
+    ├── src/
+    │   ├── components/
+    │   ├── pages/
+    │   ├── services/
+    │   ├── context/
+    │   ├── utils/
+    │   ├── App.js
+    │   ├── App.css
+    │   └── index.js
+    ├── package.json
+    └── .env
